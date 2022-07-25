@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BestPractice.Api.Models/1.0.0": {
+        "runtime": {
+          "BestPractice.Api.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestPractice.Api.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbdJiTWwtghHv82vZErZwqsNgmwC7cuSshysm75rE1nFyYm6CnJy3fPotgIUQr3hE+YoGFN2oMSbPblxcrcTrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\BestPractice\\BestPractice.Api.Service\\BestPractice.Api.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

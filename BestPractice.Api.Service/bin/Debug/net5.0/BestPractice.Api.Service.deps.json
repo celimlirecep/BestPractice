@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BestPractice.Api.Service/1.0.0": {
+        "dependencies": {
+          "BestPractice.Api.Data.Model": "1.0.0",
+          "BestPractice.Api.Models": "1.0.0"
+        },
+        "runtime": {
+          "BestPractice.Api.Service.dll": {}
+        }
+      },
+      "BestPractice.Api.Data.Model/1.0.0": {
+        "runtime": {
+          "BestPractice.Api.Data.Model.dll": {}
+        }
+      },
+      "BestPractice.Api.Models/1.0.0": {
+        "runtime": {
+          "BestPractice.Api.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestPractice.Api.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BestPractice.Api.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BestPractice.Api.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

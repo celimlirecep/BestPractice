@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Service.deps.json
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Service.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\ref\BestPractice.Api.Service.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Service.pdb
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Data.Model.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Models.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Data.Model.pdb
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\bin\Debug\net5.0\BestPractice.Api.Models.pdb
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.AssemblyInfo.cs
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.csproj.CopyComplete
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\ref\BestPractice.Api.Service.dll
+C:\Users\Hp\Desktop\BestPractice\BestPractice.Api.Service\obj\Debug\net5.0\BestPractice.Api.Service.pdb
