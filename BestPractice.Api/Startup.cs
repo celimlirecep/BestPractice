@@ -1,3 +1,4 @@
+using BestPractice.Api.Extensions;
 using BestPractice.Api.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -53,14 +54,7 @@ namespace BestPractice.Api
             app.UseRouting();
 
             app.UseAuthorization();
-            //uygulamama devamlý istekte bulunarak uygulamamýn saðlýklý bir þekilde çalýþýp alýþmadýðýný kntrol eder
-            app.UseHealthChecks("/api/health", new Microsoft.AspNetCore.Diagnostics.HealthChecks.HealthCheckOptions()
-            {
-                ResponseWriter = async (context, report) =>
-                {
-                    await context.Response.WriteAsync("OK");
-                }
-            });
+            app.UseCustomHealthCheck();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
